@@ -1,0 +1,22 @@
+{
+  "name": "schoolbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragincajun384/schoolbus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragincajun384/schoolbus/issues"
+  },
+  "homepage": "https://github.com/Ragincajun384/schoolbus#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
